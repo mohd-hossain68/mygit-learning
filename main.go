@@ -1,4 +1,6 @@
-pakage main
+package main
 
-func main() {} 
+func main() {
+  console.log("this is the main caller");
+} 
 
