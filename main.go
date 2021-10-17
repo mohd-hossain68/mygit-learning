@@ -1,2 +1,4 @@
+pakage main
+
 func main() {} 
 
